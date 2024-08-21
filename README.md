@@ -6,8 +6,8 @@
 
 <p align="center">
     <a href="https://telegram.me/tech_shreyansh2"><img src="https://img.shields.io/badge/Chat%20with%20us%20on%20Telegram--blue?style=social&logo=discord" alt="Chat with us without signup" title="Chat with us without signup"></a>
-    <a href="https://www.instagram.com/_rai_shreyansh_"><img src="https://img.shields.io/badge/MAS%20on%20Reddit--orange?style=social&logo=reddit" alt="MAS on Reddit" title="Shreyansh on Instagram"></a>
-    <a href="https://twitter.com/_rai_shreyansh_"><img src="https://img.shields.io/twitter/follow/massgravel" alt="Follow us on X" title="Follow us on X"></a>
+    <a href="https://www.instagram.com/_rai_shreyansh_"><img src="https://img.shields.io/badge/MAS%20on%20Reddit--orange?style=social&logo=reddit" alt="Shreyansh on Instagram" title="Shreyansh on Instagram"></a>
+    <a href="https://twitter.com/_rai_shreyansh_"><img src="https://img.shields.io/twitter/follow/_rai_shreyansh_" alt="Follow us on X" title="Follow us on X"></a>
 </p>
 
 <hr>
